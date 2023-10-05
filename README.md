@@ -1,5 +1,7 @@
 ## Basic CSS by Building a Cafe Menu
-## images
-- https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg
-- https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg
-- https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg
+
+ Learn CSS by designing a menu page for a cafe webpage. CSS is used to style and design, it also tells the browser how to display a webpage.
+
+ &rarr; from freeCodeCamp [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+ &rarr; the []()
